@@ -1,2 +1,3 @@
-export const API_URL = "http://localhost:4000/";
-// const API_URL = ""
+// export const API_URL = "http://localhost:4000/";
+
+const API_URL = "https://backend-swiggy-clone-a8ff.onrender.com/";
